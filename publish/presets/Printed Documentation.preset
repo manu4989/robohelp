@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<preset>
+  <content>
+    <index type="boolean">true</index>
+    <toc>
+      <path>../../toc/test123.toc</path>
+      <name>test123</name>
+    </toc>
+    <glossary>
+      <path>../../glossary/test123.glo</path>
+      <name>test123</name>
+    </glossary>
+    <brs type="array"></brs>
+    <mapFiles type="array"></mapFiles>
+    <generatetoc type="boolean">true</generatetoc>
+  </content>
+  <outputPath>C:/Users/mmehrotr/Documents/My RoboHelp Projects/outputs/test123/Printed Documentation</outputPath>
+  <starterPage>test123.pdf</starterPage>
+  <search>
+    <context type="boolean">false</context>
+  </search>
+  <sitemap>
+    <use type="boolean">false</use>
+    <changeFrequency></changeFrequency>
+  </sitemap>
+  <name>Printed Documentation</name>
+  <type>pdf</type>
+  <title>test123</title>
+  <lowercasenames type="number">0</lowercasenames>
+  <pdf>
+    <multiheaders type="boolean">false</multiheaders>
+    <margin type="array">
+      <marginitem type="number">15</marginitem>
+      <marginitem type="number">15</marginitem>
+      <marginitem type="number">15</marginitem>
+      <marginitem type="number">15</marginitem>
+    </margin>
+  </pdf>
+</preset>

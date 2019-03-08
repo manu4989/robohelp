@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<preset>
+  <content>
+    <index type="boolean">true</index>
+    <toc>
+      <path>../../toc/test123.toc</path>
+      <name>test123</name>
+    </toc>
+    <glossary>
+      <path>../../glossary/test123.glo</path>
+      <name>test123</name>
+    </glossary>
+    <masterpage></masterpage>
+    <brs type="array"></brs>
+    <mapFiles type="array"></mapFiles>
+  </content>
+  <outputPath>C:/Users/mmehrotr/Documents/My RoboHelp Projects/outputs/test123/Microsoft_HTML_Help</outputPath>
+  <starterPage>test123.chm</starterPage>
+  <search>
+    <context type="boolean">false</context>
+  </search>
+  <sitemap>
+    <use type="boolean">false</use>
+    <changeFrequency></changeFrequency>
+  </sitemap>
+  <name>Microsoft HTML Help</name>
+  <type>chm</type>
+  <title>test123</title>
+  <defaultTopic>
+    <name>First_Topic.htm</name>
+    <path>../../contents/First_Topic.htm</path>
+  </defaultTopic>
+  <lowercasenames type="number">0</lowercasenames>
+</preset>

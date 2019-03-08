@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>        
+
+<glossgroup id="test123">          
+<title>Glossary Definitions</title>        
+<glossentry id="test123_test">
+<glossterm>test</glossterm>
+<glossdef>fhaknakf</glossdef></glossentry>
+<glossentry id="test123_Topic1">
+<glossterm>Topic1</glossterm>
+<glossdef>scdvsdv</glossdef></glossentry></glossgroup>
